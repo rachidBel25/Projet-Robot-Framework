@@ -1,0 +1,7 @@
+browser/"
+log.html"
+output.xml"
+playwright-log.txt" 
+reports.html" 
+results/"
+*.log"
