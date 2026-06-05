@@ -49,4 +49,4 @@ se connecter avec des identifiants inavlides
     Log    ${imageformulaire}
     
 
-    # git add C:\ProjetNouveauRobot\results\templates.robot
+   
